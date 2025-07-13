@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="risk-management" x="0" y="0" enable-background="new 0 0 66 66" version="1.1" viewBox="0 0 66 66">
+  <line x1="48.2" x2="48.2" y1="35.9" y2="28.9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M6.8 15.9v44.4c0 2.1 1.7 3.7 3.7 3.7h34c2.1 0 3.7-1.7 3.7-3.7v-4.6M47.9 8.8c-.5-1.4-1.9-2.5-3.5-2.5H16.2"></path>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M43.8,6.4V5.7C43.8,3.7,42.1,2,40,2h-34C4,2,2.4,3.7,2.4,5.7v50.2c0,2.1,1.7,3.7,3.7,3.7h0.7"></path>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M6.8,15.9l9.5-9.5V13c0,1.6-1.3,2.8-2.8,2.8H6.8z"></path>
+  <line x1="51" x2="48.5" y1="51.2" y2="48.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+  <line x1="45.6" x2="48.1" y1="51.5" y2="54.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+  <circle cx="39.5" cy="42.6" r="10.6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></circle>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M47.2 55l4.7-4.7 8.5 10.1c.7.9.7 2.2-.1 3l0 0c-.8.8-2.1.9-3 .1L47.2 55zM41.3 37.8L40.9 42c-.1.7-.7 1.3-1.4 1.3l0 0c-.7 0-1.3-.6-1.4-1.3l-.4-4.2c-.1-1 .7-1.9 1.8-1.9l0 0C40.6 35.9 41.4 36.8 41.3 37.8zM37.9 47.7c0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6S40.4 46 39.5 46C38.6 46 37.9 46.8 37.9 47.7z"></path>
+  <g>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M55.2,7.9c1.5,0.3,2.9,1,4.1,1.8c-0.5,1-0.6,2,0,2.7C60,13,61,13,62,12.5c0.8,1.2,1.4,2.7,1.6,4.2
+			c-1.1,0.3-1.8,1-1.9,1.9c0,0.9,0.7,1.6,1.8,2c-0.3,1.5-1,2.9-1.8,4.1c-1-0.5-2-0.6-2.7,0c-0.6,0.6-0.7,1.7-0.2,2.7
+			c-1.2,0.8-2.7,1.4-4.2,1.6c-0.3-1.1-1-1.8-1.9-1.9c-0.9,0-1.6,0.7-2,1.8c-1.5-0.3-2.9-1-4.1-1.8c0.5-1,0.6-2,0-2.7
+			c-0.6-0.6-1.7-0.7-2.7-0.2c-0.8-1.2-1.4-2.7-1.6-4.2c1.1-0.3,1.8-1,1.9-1.9c0-0.9-0.7-1.6-1.8-2c0.3-1.5,1-2.9,1.8-4.1
+			c1,0.5,2,0.6,2.7,0c0.6-0.6,0.7-1.7,0.2-2.7c1.2-0.8,2.7-1.4,4.2-1.6c0.3,1.1,1,1.8,1.9,1.9C54.1,9.7,54.8,8.9,55.2,7.9z"></path>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M53.1,14.1c-2.4-0.1-4.4,1.8-4.5,4.3c-0.1,2.4,1.8,4.4,4.3,4.5c2.4,0.1,4.4-1.8,4.5-4.3S55.5,14.1,53.1,14.1z
+			"></path>
+  </g>
+  <g>
+    <rect width="6.2" height="6.4" x="11.8" y="30.9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <rect width="6.2" height="6.4" x="11.8" y="41.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <rect width="6.2" height="6.4" x="11.8" y="52.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <rect width="5.7" height="4.4" x="14.5" y="21.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <rect width="5.7" height="12.6" x="20.2" y="13.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <rect width="5.7" height="8.8" x="25.9" y="17.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <rect width="5.7" height="14.7" x="31.6" y="11.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></rect>
+    <g>
+      <line x1="22.2" x2="27.7" y1="31.6" y2="31.6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+      <line x1="22.2" x2="25.7" y1="36.6" y2="36.6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+    </g>
+    <g>
+      <line x1="22.2" x2="24.7" y1="42.4" y2="42.4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+      <line x1="22.2" x2="25.3" y1="47.4" y2="47.4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+    </g>
+    <g>
+      <line x1="22.2" x2="29.3" y1="53.2" y2="53.2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+      <line x1="22.2" x2="43.1" y1="58.2" y2="58.2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
+    </g>
+  </g>
+</svg>
